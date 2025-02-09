@@ -47,5 +47,13 @@ Portfolio/
 ## 📬 Contact
 For any inquiries, feel free to reach out!
 
+
+## Contact
+For any inquiries or support, feel free to reach out:
+
+ - Email: ashitosh.rohom@gmail.com
+ - LinkedIn: [linkedin.com/in/ashitoshrohom](linkedin.com/in/ashitoshrohom)
+ - GitHub: [https://github.com/ashurohom/](https://github.com/ashurohom/)
+
 ---
-This portfolio serves as a comprehensive showcase of my academic and professional journey. Thank you for visiting! 🎉
+This portfolio serves as a comprehensive showcase of my academic and professional journey.
